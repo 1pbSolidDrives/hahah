@@ -14,7 +14,7 @@
     self = [super init];
     if (self) {
         _name = @"煞白";
-        _age = 22;
+        _age = 22222222;
     }
     return self;
 }

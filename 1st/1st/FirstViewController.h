@@ -10,6 +10,9 @@
 
 @interface FirstViewController : UIViewController
 
+- (void) loghaha;
+    
+
 
 @end
 

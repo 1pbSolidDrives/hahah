@@ -17,6 +17,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    hahah* phh = [[hahah alloc] init];
+    [phh setName:@"我不叫煞白  我叫 顺利顺利顺利" andAge:55];
+    NSLog(@"name=%@ age=%li",phh.getName,phh.getAge);
+    [hahah logHHH:@"我不叫煞白  我叫 顺利顺利顺利1"
+           ogName:@"我不叫煞白  我叫 顺利顺利顺利2"
+           ognam2:@"我不叫煞白  我叫 顺利顺利顺利3"];
     return YES;
 }
 

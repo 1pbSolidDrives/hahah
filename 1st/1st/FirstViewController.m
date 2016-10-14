@@ -24,6 +24,9 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-
+- (void) loghaha
+{
+    NSLog(@"哈哈哈 你哈 ");
+}
 
 @end

@@ -13,7 +13,7 @@
 -(id)init{
     self = [super init];
     if (self) {
-        _name = @"re 第一次分支";
+        _name = @"re 第一次分支 工作副本1";
         _age = 22222222;
         }
     return self;

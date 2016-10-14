@@ -13,7 +13,7 @@
 -(id)init{
     self = [super init];
     if (self) {
-        _name = @"第2次新建分枝";
+        _name = @"re 第一次分支";
         _age = 22222222;
         }
     return self;

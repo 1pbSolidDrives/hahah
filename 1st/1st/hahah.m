@@ -14,7 +14,7 @@
     self = [super init];
     if (self) {
         _name = @"妈的重新来";
-        NSString* name2 = @"工作副本";
+        NSString* name2 = @"工作副本 比分支1新一个版本";
         _age = 22222222;
         }
     return self;
